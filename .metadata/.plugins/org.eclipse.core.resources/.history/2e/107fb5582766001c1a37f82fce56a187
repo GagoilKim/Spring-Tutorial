@@ -1,0 +1,16 @@
+package com.luv2code.springdemo;
+
+public class SetterDemoApp {
+
+	public static void main(String[] args) {
+
+		// load the spring config file
+		ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("application.xml");
+		// retrieve bean from spring container
+		
+		// call methods on th bean
+		
+		// close the context
+	}
+
+}
