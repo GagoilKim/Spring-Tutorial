@@ -32,8 +32,8 @@
     	<property name="fortuneService" ref="myFortune" />
     	
     	<!-- inject literal values -->
-    	<property name="emailAddress" value="${foo.email}" />
-    	<property name="team" value="${foo.team}" />
+    	<property name="emailAddress" value="thebestcoach@Luv2code.com" />
+    	<property name="team" value="Sunrisers Hyderabad" />
 	</bean>
     
 </beans>
